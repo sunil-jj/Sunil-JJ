@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, business and music
 - 🌱 I’m currently learning Javascript, HTML,CSS and Data Structures
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on- Sunilamaranth@gmail.com
 
 <!---
 Sunil-JJ/Sunil-JJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
