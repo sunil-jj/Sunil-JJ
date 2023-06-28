@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunil-JJ
-- 👀 I’m interested in technology, business and music
-- 🌱 I’m currently learning Javascript, HTML,CSS and Data Structures
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in technology, business , fitness and carnatic music 
+- 🌱 I’m currently learning Javascript, HTML,CSS, Reactjs for frontend and node.js express and MongoDB for backend
+- 💞️ I’m looking to collaborate on fullstack projects or pleasing frontend applications
 - 📫 Reach me on- Sunilamaranth@gmail.com
 
 <!---
