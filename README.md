@@ -12,5 +12,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sunil-JJ&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-JJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://www.linkedin.com/in/sunil-amaranth-91a5b6189" target="_blank">Linkedin</a>
+
 <a href="https://sunil-jj.github.io/" target="_blank">Portfolio</a>
+<a href="https://www.linkedin.com/in/sunil-amaranth-91a5b6189" target="_blank">Linkedin</a>
